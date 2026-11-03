@@ -1,0 +1,10 @@
+OK               gov=None state=TX date=2026-11-02 | A USPS mail truck hit me. / yesterday / In Dallas.
+OK               gov=None state=NY date=2026-10-20 | An NYPD cruiser hit me. / two weeks ago / Brooklyn.
+ASK              gov=None state=NY date=None | It was the Friday before last. / Queens.
+ASK              gov=None state=TX date=None | A month and a half ago. / Houston.
+ASK              gov=None state=IL date=None | Around Labor Day. / Chicago.
+ASK              gov=None state=FL date=None | On the 3rd. / Miami.
+ASK              gov=None state=None date=2026-11-02 | Got hit in LA. / yesterday
+OK               gov=None state=NY date=2026-10-13 | Access-A-Ride van rear-ended me. / three weeks ago / the Bronx.
+OK               gov=None state=GA date=2026-11-02 | A FedEx truck hit me. / yesterday / Atlanta.
+ATTORNEY_REVIEW  gov=None state=PA date=2026-10-27 | My mom fell at the nursing home and passed away. / last Tuesday / Philadelphia.

@@ -1,0 +1,21 @@
+> The city bus ran the red and hit my car. / It was the 4th of July. / Over in Queens.
+  EXPIRED    state=NY government=local incident=2026-07-04  (flat 2-year rule: OK)
+  first deadline 02 Oct 2026 (-32 days) — notice of claim: N.Y. Gen. Mun. Law 50-e(1)(a)
+
+> A guy in a pickup rear-ended me. / That was on 1/15/2025. / Houston.
+  SOON       state=TX government=None incident=2025-01-15  (flat 2-year rule: SOON)
+  first deadline 15 Jan 2027 (73 days) — suit: Tex. Civ. Prac. & Rem. Code 16.003
+
+> I hit a pothole on a county road and broke my wrist. / Five weeks ago. / Atlanta, Georgia.
+  OK         state=GA government=local incident=2026-09-29  (flat 2-year rule: OK)
+  first deadline 30 Mar 2027 (147 days) — notice of claim: O.C.G.A. 36-33-5 (municipality, six months)
+
+> A state trooper backed into me. / It was 9/20/2026. / Newark.
+  SOON       state=NJ government=state incident=2026-09-20  (flat 2-year rule: OK)
+  first deadline 19 Dec 2026 (46 days) — notice of claim: N.J.S.A. 59:8-8
+
+> I fell off scaffolding on the job site. / Last Tuesday. / Philadelphia.
+  ROUTE_WC   state=PA government=None incident=2026-10-27  (flat 2-year rule: OK)
+  first deadline 27 Oct 2028 (724 days) — suit: 42 Pa.C.S. 5524
+  injured at work: workers' comp is usually the exclusive remedy against the employer; check third parties
+
